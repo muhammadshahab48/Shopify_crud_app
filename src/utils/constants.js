@@ -1,0 +1,20 @@
+const ERROR = {
+  VALIDATION_ERROR: 400,
+  UNAUTHORIZED_ERROR: 401,
+  NOT_FOUND: 401,
+  SERVER_ERROR: 500
+};
+
+const SUCCESS = {
+  CREATED: 201,
+  OK: 200
+}
+
+const STATUS_CODES = {
+  ERROR,
+  SUCCESS
+}
+
+module.exports = {
+  STATUS_CODES
+}

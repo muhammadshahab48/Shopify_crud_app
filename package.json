@@ -1,0 +1,29 @@
+{
+  "name": "shopify_app_backend",
+  "version": "1.0.0",
+  "description": "This is the Assessment project for Node JS development at Zyneventures",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadshahab48/Shopify_crud_app.git"
+  },
+  "author": "Muhammad Shahab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadshahab48/Shopify_crud_app/issues"
+  },
+  "homepage": "https://github.com/muhammadshahab48/Shopify_crud_app#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.1",
+    "pg": "^8.16.3",
+    "typeorm": "^0.3.27"
+  }
+}
