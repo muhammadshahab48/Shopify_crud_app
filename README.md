@@ -29,5 +29,14 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone <https://github.com/muhammadshahab48/Shopify_crud_app.git>
 cd <Shopify_crud_app>
+
+```
+### 2. Run following scripts in the terminal
+```bash
 npm install
 npm run dev
+
+```
+### 3. Run Postman Collection
+-- import the given postman collection in your postman.
+
