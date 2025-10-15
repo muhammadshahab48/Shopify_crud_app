@@ -29,3 +29,5 @@ Before you begin, ensure you have the following installed:
 ```bash
 git clone <https://github.com/muhammadshahab48/Shopify_crud_app.git>
 cd <Shopify_crud_app>
+npm install
+npm run dev

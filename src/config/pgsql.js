@@ -10,7 +10,7 @@ const AppDataSource = new DataSource({
   database: process.env.PGSQL_DB,
   entities: [__dirname + "/../entities/*.js"],
   logging: true,
-  synchronize: false,
+  synchronize: true,
 });
 
 const connectPostgresDB = async () => {
