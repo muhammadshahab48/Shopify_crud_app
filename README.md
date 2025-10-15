@@ -32,6 +32,8 @@ cd <Shopify_crud_app>
 
 ```
 ### 2. Run following scripts in the terminal
+--- before running the scripts you must need to add environment variables by creating file ".env" in root of this project 
+Note: environemnt variable are given in email  
 ```bash
 npm install
 npm run dev
